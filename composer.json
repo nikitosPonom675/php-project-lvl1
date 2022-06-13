@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "project on hexlet",
+    "autoload": {
+        "psr-4": {
+            "Nikita\\PhpProjectLvl1\\": "src/"
+        },
+        "files": [
+            
+        ]
+    },
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
